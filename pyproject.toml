@@ -28,6 +28,7 @@ go2_mjlab = "go2_mjlab.tasks"
 [project.scripts]
 train = "go2_mjlab.scripts.train:main"
 play = "go2_mjlab.scripts.play:main"
+rollout = "go2_mjlab.scripts.rollout:main"
 list-envs = "go2_mjlab.scripts.list_envs:main"
 
 [dependency-groups]

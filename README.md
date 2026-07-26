@@ -39,3 +39,9 @@ Play a trained checkpoint:
 ```sh
 uv run play Mjlab-Velocity-Rough-Unitree-Go2 --checkpoint-file logs/rsl_rl/go2_velocity/<run>/model_<step>.pt
 ```
+
+Raw env rollout:
+
+```sh
+uv run rollout
+```
