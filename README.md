@@ -1,5 +1,17 @@
 # go2-mjlab
 
+<table>
+  <tr>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/fcb17cde-62ed-4dce-ae00-c3adbb6593e2" controls muted playsinline style="width:100%; height:auto;"></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/9035d76c-5730-4ebe-a8c3-199806980bcf" controls muted playsinline style="width:100%; height:auto;"></video>
+    </td>
+  </tr>
+</table>
+
+
 Standalone Unitree Go2 velocity environments for
 [mjlab](https://pypi.org/project/mjlab/).
 
